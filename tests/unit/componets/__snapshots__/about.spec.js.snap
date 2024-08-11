@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutView.vue renders About page 1`] = `
+<div class="about">
+  <h1>This is an about page</h1>
+  <parentvue></parentvue>
+</div>
+`;
